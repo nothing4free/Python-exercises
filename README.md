@@ -1,2 +1,2 @@
-# python_class_simulator
-A simple Python script that simulates a student database.
+# Python exercises
+A place where I upload some of the Python programs I do.
